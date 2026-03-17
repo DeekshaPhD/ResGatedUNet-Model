@@ -1,5 +1,0 @@
-inputs/ # Input DEM image patches
-ground_truth/ # Ground-truth crater segmentation masks
-predictions/ # Model-predicted segmentation masks
-overlays/ # Visualization (prediction overlaid on DEM)
-metrics.csv # Quantitative evaluation (Precision, Recall, F1-score
