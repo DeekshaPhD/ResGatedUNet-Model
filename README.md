@@ -128,7 +128,7 @@ The trained ResGatedUNet weights are provided in:
 weights/ResGatedUNet_weights.pth
 ---
 
-## 📬 Contact
+**## 📬 Contact**
 
 For any queries, please contact:
 
@@ -139,7 +139,3 @@ National Institute of Technology Raipur, India
 Email: *deeksha.phd2022.etc@nitrr.ac.in*
 
 ---
-
-## 📖 Citation
-
-If you use this dataset, please cite:
