@@ -127,7 +127,7 @@ The trained ResGatedUNet weights are provided in:
 
 weights/ResGatedUNet_weights.pth
 
-**## 📬 Contact**
+## 📬 Contact
 
 For any queries, please contact:
 
