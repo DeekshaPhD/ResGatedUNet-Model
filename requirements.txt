@@ -1,0 +1,9 @@
+numpy
+opencv-python
+scipy
+scikit-learn
+torch
+torchvision
+h5py
+pandas
+tables
