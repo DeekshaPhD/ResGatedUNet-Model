@@ -1,4 +1,0 @@
-split,longitude_min,longitude_max,latitude_min,latitude_max
-train,-180,-60,-60,60
-validation,-60,60,-60,60
-test,60,180,-60,60
