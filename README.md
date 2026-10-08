@@ -124,9 +124,8 @@ The repository provides evaluation at three levels:
 
 The trained ResGatedUNet weights are provided in:
 
-```text
+
 weights/ResGatedUNet_weights.pth
----
 
 **## 📬 Contact**
 
